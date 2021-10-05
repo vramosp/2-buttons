@@ -37,6 +37,7 @@ sections:
       url: /images/hero.png
       altText: Image alt text
       caption: Image caption
+    subtitle: this is a subtitle
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
