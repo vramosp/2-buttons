@@ -59,7 +59,7 @@ sections:
     colors: colors-h
     width: wide
     height: short
-    textAlign: left
+    textAlign: center
     bottomGap: none
     topGap: none
     contentAlignHoriz: center
