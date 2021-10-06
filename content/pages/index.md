@@ -54,6 +54,9 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+    badge:
+      elementId: ''
+      label: lorem-ipsum
   - type: TestimonialsSection
     variant: variant-b
     colors: colors-h
