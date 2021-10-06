@@ -73,7 +73,7 @@ sections:
           type: ImageBlock
           url: /images/isabelle-parks.jpg
           altText: Isabelle Parks
-    title: What our customers say
+    title: What our customers say about
   - type: CtaSection
     variant: variant-b
     colors: colors-c
