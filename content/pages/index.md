@@ -74,6 +74,7 @@ sections:
           url: /images/isabelle-parks.jpg
           altText: Isabelle Parks
     title: Why do people like us
+    subtitle: Testimonials section
   - type: CtaSection
     variant: variant-b
     colors: colors-c
